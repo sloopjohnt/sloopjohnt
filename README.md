@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sloopjohnt
 - 👀 I’m interested in ... arduino coding (at the moment).
 - 🌱 I’m currently learning ... Arduino C/C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... johntait1001@gmail.com
 - 
 
